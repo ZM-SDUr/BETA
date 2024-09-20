@@ -4,4 +4,6 @@ MPC、PSQA在Pensieve test文件中
 
 PPO、SAC、DQN三个算法在对应的文件夹下
 
+Genet需要使用pensieve进行预训练
+
 merina参考需要先用传统算法进行预训练
