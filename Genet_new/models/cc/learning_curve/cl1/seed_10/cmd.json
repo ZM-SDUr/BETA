@@ -1,0 +1,19 @@
+{
+    "exp_name": "cl1",
+    "save_dir": "/tank/zxxia/PCC-RL/results_1006/cl1/seed_10",
+    "seed": 10,
+    "total_timesteps": 720001,
+    "pretrained_model_path": "../../results_0826/udr_6/udr_start/seed_20/model_step_21600.ckpt",
+    "tensorboard_log": "tensorboard_log",
+    "validation": true,
+    "val_freq": 7200,
+    "curriculum": "cl1",
+    "dataset": "pantheon",
+    "config_files": [
+        "../../config/train/cl1/difficulty0.json",
+        "../../config/train/cl1/difficulty1.json",
+        "../../config/train/cl1/difficulty2.json",
+        "../../config/train/cl1/difficulty3.json",
+        "../../config/train/cl1/difficulty4.json"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "exp_name": "udr3",
+    "save_dir": "/tank/zxxia/PCC-RL/results_1006/udr3/seed_30",
+    "seed": 30,
+    "total_timesteps": 720001,
+    "pretrained_model_path": "",
+    "tensorboard_log": "tensorboard_log",
+    "validation": true,
+    "val_freq": 7200,
+    "curriculum": "udr",
+    "dataset": "pantheon",
+    "real_trace_prob": 0.0,
+    "train_trace_file": "",
+    "val_trace_file": "",
+    "config_file": "../../config/train/udr_large.json"
+}

@@ -1,0 +1,16 @@
+{
+    "exp_name": "",
+    "save_dir": "/datamirror/zxxia/PCC-RL/results_1006/train_with_difficulty_metrics/metric3_new/seed_30/bo_2",
+    "seed": 30,
+    "total_timesteps": 72000,
+    "pretrained_model_path": "/datamirror/zxxia/PCC-RL/results_1006/train_with_difficulty_metrics/metric3_new/seed_30/bo_1/model_step_64800.ckpt",
+    "randomization_range_file": "/datamirror/zxxia/PCC-RL/results_1006/train_with_difficulty_metrics/metric3_new/seed_30/bo_2.json",
+    "train_trace_file": null,
+    "val_trace_file": null,
+    "total_trace_count": 500,
+    "duration": 10,
+    "tensorboard_log": null,
+    "validation": true,
+    "dataset": "pantheon",
+    "real_trace_prob": 0.0
+}

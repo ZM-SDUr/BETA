@@ -1,0 +1,16 @@
+{
+    "save_dir": "/datamirror/zxxia/PCC-RL/results_1006/train_with_difficulty_metrics/metric3_new/seed_30",
+    "model_path": null,
+    "config_file": "../../config/train/udr_7_dims_0826/udr_large.json",
+    "bo_rounds": 15,
+    "seed": 30,
+    "heuristic": "optimal",
+    "nproc": 2,
+    "validation": true,
+    "n_init_pts": 10,
+    "n_iter": 5,
+    "model_select": "latest",
+    "train_trace_file": null,
+    "real_trace_prob": 0,
+    "bo_only": false
+}

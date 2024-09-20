@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tank/zxxia/PCC-RL/results_1006/genet_bbr_old/seed_30/bo_2/model_step_64800.ckpt"
+all_model_checkpoint_paths: "/tank/zxxia/PCC-RL/results_1006/genet_bbr_old/seed_30/bo_2/model_step_64800.ckpt"

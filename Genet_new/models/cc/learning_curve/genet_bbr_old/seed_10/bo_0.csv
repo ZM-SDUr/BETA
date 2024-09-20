@@ -1,0 +1,3 @@
+bandwidth_lower_bound_min,bandwidth_lower_bound_max,bandwidth_upper_bound_min,bandwidth_upper_bound_max,delay_min,delay_max,queue_min,queue_max,loss_min,loss_max,T_s_min,T_s_max,delay_noise_min,delay_noise_max,duration_min,duration_max,weight
+0.1,0.1,0.1,100,2,200,0.2,3,0,0.05,1,30,0,0,30,30,0.7
+0.1,0.1,1.1790854384045446,1.1790854384045446,17.763391850880907,17.763391850880907,2.3667248293896685,2.3667248293896685,0.00016724361176050353,0.00016724361176050353,18.115839526577265,18.115839526577265,0.0,0.0,30,30,0.3

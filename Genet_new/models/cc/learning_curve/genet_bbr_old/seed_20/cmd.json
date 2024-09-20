@@ -1,0 +1,16 @@
+{
+    "save_dir": "/tank/zxxia/PCC-RL/results_1006/genet_bbr_old/seed_20",
+    "model_path": "../../results_0826/udr_6/udr_start/seed_20/model_step_21600.ckpt",
+    "config_file": "../../config/train/udr_large.json",
+    "bo_rounds": 15,
+    "seed": 20,
+    "heuristic": "bbr_old",
+    "nproc": 2,
+    "validation": true,
+    "n_init_pts": 10,
+    "n_iter": 5,
+    "model_select": "latest",
+    "train_trace_file": null,
+    "real_trace_prob": 0,
+    "bo_only": false
+}
